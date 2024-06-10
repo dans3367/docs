@@ -1,1 +1,18 @@
-{}
+{
+    "Dert": {
+        "projectName": "Dert",
+        "description": "first project",
+        "type": "community",
+        "author": "dans3367",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/dans3367/docs",
+        "githubUri": "https://github.com/dans3367/docs",
+        "license": "apache-2.0",
+        "lastUpdated": "1718041049281",
+        "tags": [
+            "only"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
